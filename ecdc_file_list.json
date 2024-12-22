@@ -1,0 +1,22 @@
+[
+    {
+        "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"ranitdataexplorer/Azure-Data-Factory/refs/heads/main/cases_deaths.csv",
+        "sinkFileName":"cases_deaths.csv"
+    },
+    {
+        "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"ranitdataexplorer/Azure-Data-Factory/refs/heads/main/hospital_admissions.csv",
+        "sinkFileName":"hospital_admissions.csv"
+    },
+    {
+        "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"ranitdataexplorer/Azure-Data-Factory/refs/heads/main/testing.csv",
+        "sinkFileName":"testing.csv"
+    },
+    {
+        "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"ranitdataexplorer/Azure-Data-Factory/refs/heads/main/country_response.csv",
+        "sinkFileName":"country_response.csv"
+    }
+]
